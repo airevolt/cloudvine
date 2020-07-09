@@ -1,0 +1,15 @@
+.weatherdiv{
+background-color: rgb(101, 207, 243);
+width: 210px;
+padding-top: 50px;
+margin-top: 30px;
+}
+
+.weatherdiv:hover{
+    background-color: rgb(7, 233, 222);
+    transition-duration: .75s;
+}
+
+.weatherholder{
+    display: inline-block;
+}
